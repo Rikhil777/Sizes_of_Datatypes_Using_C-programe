@@ -13,5 +13,10 @@ This simple C program is designed to help you determine the size and range of di
    ```bash
    gcc data_type_checker.c -o data_type_checker
 
-   ./data_type_checker
-Run the Compiled program</pre>
+   
+Run the Compiled program by using
+             ./data_type_checker</pre>
+
+             
+<p>This Code gives different values depending upon Machine Mainly It has to follow the below condition.</p>
+<pre> sizeof(short int) <= sizeof(int) <= sizeof(long int) </pre>
