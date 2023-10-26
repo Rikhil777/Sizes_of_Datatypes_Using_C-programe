@@ -18,5 +18,5 @@ Run the Compiled program by using
              ./data_type_checker</pre>
 
              
-<p>This Code gives different values depending upon Machine Mainly It has to follow the below condition.</p>
+<p>This Code gives different values depending upon Machine. Mainly It has to follow the below condition.</p>
 <pre> sizeof(short int) <= sizeof(int) <= sizeof(long int) </pre>
